@@ -163,6 +163,15 @@
       "enabled": true
     },
     {
+      "id": "1766132810774",
+      "title": "VP(S/N)",
+      "icon": "Laptop",
+      "description": "VP(S/N)",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1536,15 +1545,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1766132810774",
-      "title": "VP(S/N)",
-      "icon": "Laptop",
-      "description": "VP(S/N)",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
