@@ -1536,6 +1536,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1766132810774",
+      "title": "VP(S/N)",
+      "icon": "Laptop",
+      "description": "VP(S/N)",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
