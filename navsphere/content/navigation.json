@@ -177,6 +177,14 @@
           "description": "常用",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "f0174fea-8cd3-48cd-80bd-7e0e1c40013c",
+          "title": "VPS",
+          "icon": "Laptop",
+          "description": "VPS",
+          "enabled": true,
+          "items": []
         }
       ]
     },
