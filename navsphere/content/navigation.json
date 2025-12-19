@@ -176,7 +176,16 @@
           "icon": "Star",
           "description": "常用",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1766133035170_i583l7k64",
+              "title": "MEMOS-WORKER",
+              "href": "https://notes.090918.xyz/",
+              "description": "Cloudflare MEMOS-WORKER",
+              "icon": "/assets/favicon_1766132982267.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "f0174fea-8cd3-48cd-80bd-7e0e1c40013c",
