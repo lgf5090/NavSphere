@@ -185,6 +185,14 @@
           "description": "VPS",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "91c7fdea-2ca8-45f2-91f4-b640d6309169",
+          "title": "VPN",
+          "icon": "Cloud",
+          "description": "VPN",
+          "enabled": true,
+          "items": []
         }
       ]
     },
