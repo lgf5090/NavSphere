@@ -169,7 +169,16 @@
       "description": "VP(S/N)",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "0ce743e3-7812-4eb4-bc34-27566bdd35b5",
+          "title": "常用",
+          "icon": "Star",
+          "description": "常用",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1761724945457",
